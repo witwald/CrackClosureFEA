@@ -1,4 +1,4 @@
-# Finite Element Analysis of Crack Closure Using Newman's Method
+# Finite Element Analysis of Crack Closure
 
 Newman [1][2] developed a two-dimensional finite-element computer program that accounts for both elastic-plastic material behavior and changing boundary conditions associated with
 crack extension and intermittent contact of the crack surfaces under cyclic loading. The Fortran implementation included an efficient technique to account for changing boundary conditions. The program can be used to study crack extension and crack closure under constant amplitude and two-level block loading. The program can calculate crack-closure and crack-opening stresses.
